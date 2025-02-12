@@ -1,4 +1,4 @@
-<h1>Hi, I'm Giovanni, an <a href="https://linkedin.com/in/giovanni-perdomo-510044248">IT Professional</a>☺</h1>
+<h1>Hi, I'm Giovanni, an <a href="https://linkedin.com/in/giovanni-perdomo-510044248">IT and Cybersecurity Professional</a>☺</h1>
 
 ## ⚠️ Vulnerability Management Projects
 
