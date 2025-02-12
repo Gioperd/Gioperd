@@ -3,7 +3,7 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Gioperd/vulnerability-management-program)**
-- **[Vulnerability Remediation With Powershell](https://github.com/Gioperd/vulnerability-management-program)**
+- **[Vulnerability Remediation With Powershell](https://github.com/Gioperd/vulnerability-remediation-with-powershell/tree/main)**
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
