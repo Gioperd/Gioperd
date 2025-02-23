@@ -4,7 +4,10 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/Gioperd/vulnerability-management-program)**
 - **[Vulnerability Remediation With Powershell](https://github.com/Gioperd/vulnerability-remediation-with-powershell/tree/main)**
-  
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Gioperd/threat-hunting-scenario-tor)**
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
